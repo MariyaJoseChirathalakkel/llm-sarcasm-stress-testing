@@ -105,7 +105,6 @@ Add a new column name, gemini_label, to the dataset and store the output of ever
 Provide the output as a CSV file for download, no code file, text, or any other format.
 
 ## Generative AI Documentation
-In accordance with the Generative AI Policy for the Dissertation (ITNPBD5), generative AI tools were used under the AI Collaboration tier for practical project work. This included assisting with writing code segments, structuring notebooks, and supporting data labeling tasks for the experiments.  
 
 Human Evaluation: All AI-generated code, script structures, and data labels have undergone critical human evaluation, verification, and testing by the author to ensure accuracy and reliability before final inclusion in the project.Chat 
 
