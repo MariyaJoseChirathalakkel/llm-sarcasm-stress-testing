@@ -1,0 +1,6 @@
+stress/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Exploratory_Data_Analysis/train-balanced-sarcasm.csv
+reference_papers/
